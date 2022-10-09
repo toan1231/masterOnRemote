@@ -10,6 +10,6 @@ public class jfkdjf {
                 alert.accept();
             }
         }catch (NoAlertPresentException en){
-            en.printStackTrace();
+        
         }
 }
