@@ -1,6 +1,6 @@
 public class jfkdjf {
     public static void main(String[] args) {
         System.out.println("this is brand new project gonna push");
-        //ban thang toanban than toant
+        //00000000000000000000000000000000000000000
     }
 }
