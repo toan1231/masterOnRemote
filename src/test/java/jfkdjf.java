@@ -9,7 +9,7 @@ public class jfkdjf {
                 Alert alert=driver.switchTo().alert();
                 alert.accept();
             }
-        }catch (NoAlertPresentException en){
+       
         
         }
 }
